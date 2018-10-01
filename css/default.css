@@ -28,3 +28,9 @@ p.greeting{
   order-top: #6fbb9a 1px dottedr
   text-align:center;
 }
+
+  body{
+    background-color: #fbf9cc;
+    background-image: url(../img/haikei.jpg);
+    background-repeat: repeat-x;
+  }
